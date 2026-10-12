@@ -1,0 +1,2 @@
+Model,Encoder,Dataset,Dice coefficient,IoU
+U-Net,ResNet34,SICAPv2,0.7492,0.6969
